@@ -1,0 +1,28 @@
+img {
+    margin: 0 auto;
+    position: relative;
+    display: block;
+}
+
+.satu {
+    float: right;
+      width: 800px;
+       display: block;
+}
+
+.dua {
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 0;
+    background-color: white;
+    z-index: 1;
+    padding: 15px;
+    margin: 20px;
+    text-align: right;
+    
+}
+
+p {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,25 @@
+header {
+    background-color: black;
+    text-transform: uppercase;
+    font-size: 27px;
+}
+
+a {
+    color: white;
+    
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+div.footer {
+    font-size: 22px;
+}
+
+.slider-div {
+    text-align: center;
+    margin-top: 10px;
+}

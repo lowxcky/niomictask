@@ -1,0 +1,27 @@
+body {
+    background-image: url("stupa.jpg");
+    background-size: cover;
+}
+
+div{
+    width: 700px;
+           height: 450px;
+           border: 2px solid red;
+           margin: 0 auto;
+           background-image: url("avocado.jpg");
+
+}
+
+p.justify {
+    color: blue;
+
+
+
+    
+}
+
+div.repeat {
+    background-image: url("avocado.jpg");
+    background-repeat: repeat-x;
+
+}

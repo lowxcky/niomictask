@@ -1,0 +1,30 @@
+p {
+    border: 2px solid #000;
+    background-color: grey;
+}
+
+h4 {
+    font-size: 28px;
+}
+
+p.p_1 {
+    background-color: #C96E00;
+}
+
+p.p_2 {
+    background-color: #0000FF;
+    color: white;
+}
+
+p.p_3 {
+    font-family: monospace;
+    font-size: larger;
+    background-color: white;
+}
+
+p.p_4 {
+    background-color: grey;
+    font-size: larger;
+    font-weight: bolder;
+
+}

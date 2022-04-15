@@ -1,0 +1,29 @@
+body {
+    background-image: url("slipknot.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    overflow: scroll;
+    width: 700px;
+    height: 380px;
+    border: 2px solid black;
+    background-image: url("avocado.jpg");
+    background-repeat: repeat-y;
+    background-color: white;
+}
+
+.satu {
+    color: blue;
+    text-align: right;
+}
+
+.dua {
+    color: green;
+}
+
+.tiga {
+    color: red;
+    text-align: center;
+}

@@ -1,0 +1,51 @@
+header {
+    background-color: #333333;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-top: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 15px;
+  }
+
+p {
+  height: 320px;
+  column-width: 200px;
+  column-count: 4;
+  column-gap: 40px;
+  column-rule-style: solid;
+  text-align: justify;
+    
+}
+
+.span {
+  column-span: all;
+}
+
+main {
+    column-rule: 5px;
+}
+
+footer {
+    background-color: black;
+    margin: auto;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
